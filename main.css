@@ -1,0 +1,156 @@
+header {
+  width: 100%;
+  height: 350px;
+  background-image: url(http://ic.pics.livejournal.com/sharys_aogail/48520115/7826/7826_original.jpg);
+  opacity: 0.8; }
+  header .row {
+    background: rgba(0, 61, 153, 0.75);
+    overflow: hidden;
+    height: 100%;
+    z-index: 2; }
+  header h1 {
+    font-size: 3.5em;
+    color: #fff;
+    clear: both; }
+  header h1, header h6 {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    top: 50px; }
+  header h3 {
+    margin: 31px 0px 0 0;
+    vertical-align: top;
+    width: 80%;
+    text-align: right; }
+  header nav h3, header ul, header li {
+    display: inline-block; }
+  header a {
+    text-decoration: none;
+    color: black; }
+  header ul {
+    float: right;
+    margin: 34px 0 0 0;
+    padding: 0;
+    width: 49%;
+    text-align: center; }
+  header li {
+    margin-left: 10px; }
+  header nav {
+    margin-bottom: 44px; }
+  header nav img {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    margin: 20px 0px 0 0; }
+  header li img {
+    width: 15px;
+    height: 15px;
+    margin: 0; }
+  header img.logo-header {
+    border-radius: 60%;
+    margin-left: 20px; }
+  header .logo-home {
+    width: 50%;
+    margin: 0 auto;
+    display: inline-block;
+    text-align: center; }
+
+section {
+  margin-top: 30px; }
+
+.article {
+  width: 60%;
+  margin: 0 auto;
+  display: inline-block;
+  vertical-align: top; }
+  .article h2 {
+    width: 60%;
+    margin: 0 auto;
+    font-size: 2.6em; }
+  .article p {
+    width: 60%;
+    margin: 0 auto; }
+
+.post-info {
+  margin: 0 auto;
+  width: 60%; }
+  .post-info h6 {
+    display: inline-block; }
+  .post-info img {
+    border-radius: 50%;
+    width: 30px;
+    height: 20px; }
+
+aside {
+  width: 30%;
+  margin: 0 auto;
+  display: inline-block;
+  text-align: center; }
+  aside img.bio {
+    border-radius: 50%;
+    width: 50%;
+    height: 90px; }
+  aside p {
+    width: 50%;
+    margin: 0 auto;
+    text-align: left; }
+  aside h3 {
+    margin: 0; }
+  aside img {
+    width: 150px;
+    height: 200px; }
+  aside ul {
+    margin: 0 auto;
+    width: 50%;
+    font-size: 0.6em;
+    padding: 0;
+    margin-bottom: 30px; }
+  aside li {
+    display: inline-block; }
+  aside a {
+    text-decoration: none; }
+
+footer {
+  width: 100%;
+  margin: 50px 0 0 0;
+  border-top: .5px solid #cacaca; }
+  footer h1 {
+    width: 100%;
+    display: inline-block;
+    margin: 20px 0 0 0;
+    text-align: center; }
+  footer div {
+    margin: 0 auto;
+    width: 22%;
+    height: 200px;
+    display: inline-block;
+    padding-left: 10px; }
+
+nav.footer-nav {
+  background-color: #153C58;
+  height: 75px;
+  color: white; }
+  nav.footer-nav img.logo-footer {
+    text-align: right;
+    -webkit-filter: grayscale(100%);
+    height: 30px;
+    width: 36px;
+    margin-left: 70px;
+    margin-top: 20px; }
+  nav.footer-nav p {
+    display: inline-block;
+    margin: 0 0 10px 10px;
+    width: 20%; }
+  nav.footer-nav ul {
+    display: inline-block;
+    width: 25%;
+    float: right;
+    margin-top: 30px;
+    margin-right: 130px;
+    padding: 0; }
+  nav.footer-nav a, nav.footer-nav li {
+    text-decoration: none;
+    display: inline-block;
+    list-style-type: none;
+    color: white; }

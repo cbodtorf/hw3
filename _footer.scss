@@ -1,0 +1,53 @@
+// POPULAR POSTS
+footer {
+  width: 100%;
+  margin: 50px 0 0 0;
+  border-top: .5px solid #cacaca;
+  h1 {
+    width: 100%;
+    display: inline-block;
+    margin: 20px 0 0 0;
+    text-align: center;
+
+  }
+  div {
+    margin: 0 auto;
+    width: 22%;
+    height: 200px;
+    display: inline-block;
+    padding-left: 10px;
+  }
+}
+// BOTTOM NAV
+nav.footer-nav {
+  background-color: #153C58;
+  height: 75px;
+  color: white;
+  img.logo-footer {
+    text-align: right;
+    -webkit-filter: grayscale(100%);
+    height: 30px;
+    width: 36px;
+    margin-left: 70px;
+    margin-top: 20px;
+  }
+  p {
+    display: inline-block;
+    margin: 0 0 10px 10px;
+    width: 20%;
+  }
+  ul {
+    display: inline-block;
+    width: 25%;
+    float: right;
+    margin-top: 30px;
+    margin-right: 130px;
+    padding: 0;
+  }
+  a, li {
+    text-decoration: none;
+    display: inline-block;
+    list-style-type: none;
+    color: white;
+  }
+}
