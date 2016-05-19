@@ -131,18 +131,38 @@ footer {
 div.post-one {
   background-image: linear-gradient(rgba(0, 61, 153, 0.6), rgba(0, 61, 153, 0.6)), url(https://i.ytimg.com/vi/TtoSVIkPsAk/maxresdefault.jpg);
   background-size: cover; }
+  div.post-one:hover {
+    background-image: linear-gradient(rgba(0, 61, 153, 0.3), rgba(0, 61, 153, 0.3)), url(https://i.ytimg.com/vi/TtoSVIkPsAk/maxresdefault.jpg);
+    background-size: cover; }
+    div.post-one:hover h2 {
+      color: white; }
 
 div.post-two {
   background-image: linear-gradient(rgba(0, 61, 153, 0.6), rgba(0, 61, 153, 0.6)), url(https://wegotusafamilyhere.files.wordpress.com/2011/01/my-cowboys.jpg);
   background-size: cover; }
+  div.post-two:hover {
+    background-image: linear-gradient(rgba(0, 61, 153, 0.3), rgba(0, 61, 153, 0.3)), url(https://wegotusafamilyhere.files.wordpress.com/2011/01/my-cowboys.jpg);
+    background-size: cover; }
+    div.post-two:hover h2 {
+      color: white; }
 
 div.post-three {
   background-image: linear-gradient(rgba(0, 61, 153, 0.6), rgba(0, 61, 153, 0.6)), url(http://www.guns.com/wp-content/uploads/2014/04/nerf-war-1-300x225.jpg);
   background-size: cover; }
+  div.post-three:hover {
+    background-image: linear-gradient(rgba(0, 61, 153, 0.3), rgba(0, 61, 153, 0.3)), url(http://www.guns.com/wp-content/uploads/2014/04/nerf-war-1-300x225.jpg);
+    background-size: cover; }
+    div.post-three:hover h2 {
+      color: white; }
 
 div.post-four {
   background-image: linear-gradient(rgba(0, 61, 153, 0.6), rgba(0, 61, 153, 0.6)), url(https://farm2.staticflickr.com/1170/1069635122_107cbd1b00_b.jpg);
   background-size: cover; }
+  div.post-four:hover {
+    background-image: linear-gradient(rgba(0, 61, 153, 0.3), rgba(0, 61, 153, 0.3)), url(https://farm2.staticflickr.com/1170/1069635122_107cbd1b00_b.jpg);
+    background-size: cover; }
+    div.post-four:hover h2 {
+      color: white; }
 
 nav.footer-nav {
   background-color: #153C58;
